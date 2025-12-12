@@ -26,8 +26,8 @@ const Nav = () => {
         </div>
 
         <a
-          href="/resume.pdf"
-        //   download
+          href="./resume.pdf"
+          download
           className='px-4 py-2 rounded-md bg-purple-600 text-white text-sm font-medium hover:bg-purple-700 transition'
         >
           Resume
